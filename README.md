@@ -1,6 +1,8 @@
 # Terra Firma Scraper
 
-This is a Scraper written in Rust that compiles to WASM to run in [the cloud](https://marcopolo.io/wasm).
+This a web scraper that utilises Servo — a high performance browser engine from Mozilla. You pass in a public URL and a CSS selector through its query parameters, and it returns scraped data.
+
+Forked from https://rust-scraper.now.sh/ but compiled to Wasm to run in TerraFirma.
 
 ## Usage
 
