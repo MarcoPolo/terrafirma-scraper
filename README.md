@@ -14,7 +14,7 @@ Use it [here](https://wasm.marcopolo.io/scraper.wasm)
 
 ## Setup
 
-First setup Terrafirma with keybase. Follow the [hello world tutorial](https://marcopolo.io/code/terrafirma/#terrafirma)
+First setup Terrafirma with keybase by following the [hello world tutorial](https://marcopolo.io/code/terrafirma/#terrafirma).
 
 ```
 cargo build --release
